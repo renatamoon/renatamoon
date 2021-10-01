@@ -3,7 +3,7 @@
 🧑‍🎓 Estudante de Tecnoligia na UNICID - Análise de Desenvolvimento de Sistemas;<br> 
 👜🧑‍💻 Atualmente fazendo estágio na área de Desenvolvimento Back-End em Python<br> 
 <br> 
-✌️ <b>-SOBRE MIM: </b>
+✌️ <b>SOBRE MIM: </b>
 26 anos;<br> 
 São Paulo, SP;<br> 
 📜🎓 Formada em Administração com linha específica em Comércio Exterior;<br> 
