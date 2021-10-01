@@ -4,6 +4,7 @@
 👜🧑‍💻 Atualmente fazendo estágio na área de Desenvolvimento Back-End em Python<br> 
 <br> 
 ✌️ <b>SOBRE MIM: </b>
+<br>
 26 anos;<br> 
 São Paulo, SP;<br> 
 📜🎓 Formada em Administração com linha específica em Comércio Exterior;<br> 
