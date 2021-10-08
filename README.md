@@ -1,7 +1,7 @@
 ## 😀 OLÁ, MEU NOME É RENATA MONTEIRO!
 
 🧑‍🎓 Estudante de Tecnoligia na UNICID - Análise de Desenvolvimento de Sistemas;<br> 
-👜🧑‍💻 Atualmente fazendo estágio na área de Desenvolvimento Back-End em Python<br> 
+👜🧑‍💻 Atualmente estagiando na área de Desenvolvimento Back-End em Python<br> 
 <br> 
 ✌️ <b>SOBRE MIM: </b>
 <br>
