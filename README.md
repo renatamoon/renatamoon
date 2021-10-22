@@ -39,11 +39,11 @@ Python Developer Intern at DBMX NEGOCIOS LTDA<br>
   
   <!-- BOOTCAMPS -->
 <section>
-    <h2>📚Bootcamps Certifications</h2>
+    <h2>📚Certifications</h2>
     <!-- DIGITAL INNOVATION ONE -->
     <details>
-        <summary><strong>Digital Innovation One</strong></summary>
-        <a href="bootcamps/dio/avanadefullstack1.jpeg" target="_blank"><img src="bootcamps/dio/avanadefullstack1.jpeg"  height="60" alt="avanade fullstack" title="avanade fullstack"></a>
+        <summary><strong>TreinaWEB</strong></summary>
+        <a href="Desktop\PycharmProjects\img\treinaweb.jpeg" target="_blank"><img src="Desktop\PycharmProjects\img\treinaweb.jpeg"  height="60" alt="treinaweb fullstack" title="treinaweb fullstack"></a>
         <img src="imgs/vazio.png" width="10px">
         <a href="bootcamps/dio/santanderfullstack1.jpeg" target="_blank"><img src="bootcamps/dio/santanderfullstack1.jpeg"  height="60" alt="santander fullstack" title="santander fullstack"></a>
         <img src="imgs/vazio.png" width="10px">
