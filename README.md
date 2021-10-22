@@ -43,7 +43,7 @@ Python Developer Intern at DBMX NEGOCIOS LTDA<br>
     <!-- DIGITAL INNOVATION ONE -->
     <details>
         <summary><strong>TreinaWEB</strong></summary>
-        <a href="Desktop\PycharmProjects\img\treinaweb.jpeg" target="_blank"><img src="Desktop\PycharmProjects\img\treinaweb.jpeg"  height="60" alt="treinaweb fullstack" title="treinaweb fullstack"></a>
+        <a href="PycharmProjects/img/treinaweb.jpeg" target="_blank"><img src="PycharmProjects/img/treinaweb.jpeg"  height="60" alt="treinaweb fullstack" title="treinaweb fullstack"></a>
         <img src="imgs/vazio.png" width="10px">
         <a href="bootcamps/dio/santanderfullstack1.jpeg" target="_blank"><img src="bootcamps/dio/santanderfullstack1.jpeg"  height="60" alt="santander fullstack" title="santander fullstack"></a>
         <img src="imgs/vazio.png" width="10px">
