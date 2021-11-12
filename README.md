@@ -1,13 +1,13 @@
 ## 😀 GIT HUB DE RENATA MONTEIRO!
 
-🧑‍🎓 Estudante de Tecnoligia na UNICID - Análise de Desenvolvimento de Sistemas;<br> 
-👜💻 Atualmente estagiando na área de Desenvolvimento Back-End em Python<br> 
+🧑‍🎓 Techonology Student UNICID - System Development Analysis.<br> 
+👜💻 Currently working with Software Development<br> 
 <br> 
-✌️ <b>SOBRE MIM: </b>
+✌️ <b>ABOUT ME: </b>
 <br>
-27 anos;<br> 
+27 years old;<br> 
 São Paulo, SP;<br> 
-📜🎓 Formada em Administração com linha específica em Comércio Exterior;<br> 
+📜🎓 Graduated in International Trade, Business and management;<br> 
 💻Python Developer Intern at DBMX NEGOCIOS LTDA<br> 
 
 <div align="center">
@@ -26,7 +26,7 @@ São Paulo, SP;<br>
     
   </div>
   
-   ## Total de Visitas no perfil :detective: <br>
+   ## Total of Profile Visits :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/renatamoon/count.svg" />
  </p>
