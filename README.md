@@ -26,6 +26,11 @@ Python Developer Intern at DBMX NEGOCIOS LTDA<br>
     
   </div>
   
+   ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/renatamoon/count.svg" />
+ </p>
+  
   ##
   
 <div> 
