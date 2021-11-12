@@ -1,14 +1,14 @@
-## 😀 OLÁ, MEU NOME É RENATA MONTEIRO!
+## 😀 GIT HUB DE RENATA MONTEIRO!
 
 🧑‍🎓 Estudante de Tecnoligia na UNICID - Análise de Desenvolvimento de Sistemas;<br> 
-👜🧑‍💻 Atualmente estagiando na área de Desenvolvimento Back-End em Python<br> 
+👜💻 Atualmente estagiando na área de Desenvolvimento Back-End em Python<br> 
 <br> 
 ✌️ <b>SOBRE MIM: </b>
 <br>
-26 anos;<br> 
+27 anos;<br> 
 São Paulo, SP;<br> 
 📜🎓 Formada em Administração com linha específica em Comércio Exterior;<br> 
-Python Developer Intern at DBMX NEGOCIOS LTDA<br> 
+💻Python Developer Intern at DBMX NEGOCIOS LTDA<br> 
 
 <div align="center">
   <a href="https://github.com/renatamoon">
