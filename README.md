@@ -1,14 +1,14 @@
 ## 😀 GIT HUB DE RENATA MONTEIRO!
 
 🧑‍🎓 Technology Student at UNICID - System Development Analysis<br> 
-👜💻 Currently working with Software Development<br> 
+💻 Currently working with Software Development<br> 
 <br> 
 ✌️ <b>ABOUT ME: </b>
 <br>
-27 years old;<br> 
-São Paulo, SP;<br> 
-📜🎓 Graduated in International Trade, Business and Management;<br> 
-💻Python Developer Intern at DBMX NEGOCIOS LTDA<br> 
+- 27 years old;<br> 
+- São Paulo, SP;<br> 
+- 💻Python Developer Intern at DBMX NEGOCIOS LTDA<br> 
+- 📜🎓 Graduated in International Trade, Business and Management;<br> 
 
 <div align="center">
   <a href="https://github.com/renatamoon">
