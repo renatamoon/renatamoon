@@ -1,4 +1,4 @@
-## 😀 GIT HUB DE RENATA MONTEIRO!
+## RENATA MONTEIRO!
 
 🧑‍🎓 Technology Student at UNICID - System Development Analysis<br> 
 💻 Currently working with Software Development<br> 
