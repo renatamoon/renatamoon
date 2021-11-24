@@ -1,10 +1,9 @@
 ## RENATA MONTEIRO'S GITHUB!
 Software developer junior and technology student from São Paulo, Brasil.<br>
 Here you can find and check all my projects, studies files and more.
-
-<a href="" target="_blank" rel="noreferrer nofollow">
+<br>
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-</a> 
+
 
 <hr>
 
