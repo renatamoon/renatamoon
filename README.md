@@ -1,5 +1,5 @@
 ## RENATA MONTEIRO'S GITHUB!
-I'm passionate web and software developer and technology student from São Paulo, Brasil.<br>
+Software developer junior and technology student from São Paulo, Brasil.<br>
 Here you can find and check all my projects, studies files and more.
 
 <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
@@ -17,6 +17,14 @@ Here you can find and check all my projects, studies files and more.
 - 🧑‍🎓 Technology Student at UNICID - System Development Analysis (currently studying)<br> 
 - 💻 Currently working as Software Development Python Intern<br> 
 
+<hr>
+
+## PROJECTS AND REPOSITORIES I'M CURRENTLY WORKING ON:
+
+<!-- REPO-POST-LIST:START -->
+- [E-cleaners platform - Multistack project](https://github.com/renatamoon/e-diaristas_Multistack_TreinaWeb.git)
+- [Managment System to Pet Veterinary Clinic](https://github.com/renatamoon/Clinica_Pet_gerenciamento_Django.git)
+<!-- REPO-POST-LIST:END -->
 <hr>
 
 # HOW TO REACH ME:
