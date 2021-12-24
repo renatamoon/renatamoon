@@ -11,7 +11,7 @@ Here you can find and check all my projects, studies files and more.
 
 - 27 years old<br>
 - São Paulo, SP - Brazil <br> 
-- 💻Python Developer Intern at DBMX NEGOCIOS LTDA<br> 
+- 💻 FullStack Web Developer<br> 
 - 📜🎓 Graduated in International Trade, Business and Management (finished in dec/2017);<br> 
 - 🧑‍🎓 Technology Student at UNICID - System Development Analysis (currently studying)<br> 
 - 💻 Currently working as Software Development Python Intern<br> 
@@ -55,9 +55,9 @@ Here you can find and check all my projects, studies files and more.
   <img align="center" alt="Renata-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Renata-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Renata-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="Renata-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">    
-    <img align="center" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">   
+  <img align="center" alt="Renata-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">    
+  <img align="center" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">   
 
   </div> 
   </section>
