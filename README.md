@@ -7,7 +7,7 @@ Here you can find and check all my projects, studies files and more.
       
 <hr>
 
-## ABOUT ME:
+### ABOUT ME:
 
 - 27 years old<br>
 - São Paulo, SP - Brazil <br>
@@ -17,7 +17,7 @@ Here you can find and check all my projects, studies files and more.
 
 <hr>
 
-## PROJECTS AND REPOSITORIES I'M CURRENTLY WORKING ON:
+### PROJECTS AND REPOSITORIES I'M CURRENTLY WORKING ON:
 
 <!-- REPO-POST-LIST:START -->
 - [E-cleaners platform - Multistack project](https://github.com/renatamoon/e-diaristas_Multistack_TreinaWeb.git)
@@ -25,7 +25,7 @@ Here you can find and check all my projects, studies files and more.
 <!-- REPO-POST-LIST:END -->
 <hr>
 
-# HOW TO REACH ME:
+### HOW TO REACH ME:
 
   <a href = "mailto:r.cardoso.monteiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:r_cardosomonteiro@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white>" target="_blank"></a>
@@ -33,36 +33,43 @@ Here you can find and check all my projects, studies files and more.
 
 <hr>
 
+### TECHNOLOGIES:
 
+<table style="text-align: center">        
+    <tr>
+          <th>HTML</th>
+          <th>CSS</th>
+          <th>Python</th>
+          <th>JavaScript</th>
+          <th>Django</th> 
+          <th>MySQL</th>
+          <th>React</th>
+   </tr>
+   <tr>    
+        <td><img align="center" alt="Renata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+        <td><img align="center" alt="Renata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+        <td><img align="center" alt="Renata-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
+        <td><img align="center" alt="Renata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </td>
+        <td><img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></td>       
+        <td><img align="center" alt="Renata-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></td>  
+        <td><img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
+  </tr>
+</table>
 
-# MY STATS: <br>
+<hr>
+
+### MY STATS: <br>
 <section>  
-  <br>
-<div align="center">
-  <a href="https://github.com/renatamoon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatamoon&show_icons=true&theme=calm&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatamoon&layout=compact&langs_count=7&theme=kacho_ga"/>
-</div>
-  <div style="display: inline_block" align="center"><br>
-  
-  <img align="center" alt="Renata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Renata-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Renata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-    <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-  <img align="center" alt="Renata-Git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Renata-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Renata-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Renata-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Renata-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">    
-  <img align="center" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">   
-
-  </div> 
-  </section>
+        <br>
+      <div align="center">
+        <a href="https://github.com/renatamoon">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatamoon&show_icons=true&theme=calm&include_all_commits=false&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatamoon&layout=compact&langs_count=7&theme=kacho_ga"/>
+      </div>  
+</section>
   <hr>  
   
-   ## Profile Visits :detective: <br>
+### Profile Visits :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/renatamoon/count.svg" />
  </p>   
