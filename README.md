@@ -69,7 +69,7 @@ Here you can find and check all my projects, studies files and more.
 </section>
   <hr>  
   
-### PROFILE VISITS & GIT CONTRIBUTIONS :detective: <br>
+### PROFILE VISITS & GIT CONTRIBUTIONS :detective: <br><br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/renatamoon/count.svg" />
  </p>   
