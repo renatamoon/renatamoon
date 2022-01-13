@@ -39,11 +39,9 @@ Here you can find and check all my projects, studies files and more.
     <tr>
           <th>HTML</th>
           <th>CSS</th>
-          <th>Python</th>
-          <th>JavaScript</th>
+          <th>Python</th>          
           <th>Django</th> 
           <th>MySQL</th>
-          <th>React</th>
    </tr>
    <tr>    
         <td><img align="center" alt="Renata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
