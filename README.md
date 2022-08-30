@@ -17,9 +17,8 @@ Here you can find and check all my projects, studies files and more.
 ### PROJECTS AND REPOSITORIES I'M CURRENTLY WORKING ON:
 
 <!-- REPO-POST-LIST:START -->
-- [Python FAST API studies and JWT](https://github.com/renatamoon/FAST_API_python)
-- [Python with KAFKA Studies](https://github.com/renatamoon/Kafka_Studies)
-- [E-cleaners platform - Multistack project](https://github.com/renatamoon/e-diaristas_Multistack_TreinaWeb.git)
+- [Isis Fast API](https://github.com/renatamoon/isis_api)
+- [Horus Flask API](https://github.com/renatamoon/horus_api)
 - [Managment System to Pet Veterinary Clinic](https://github.com/renatamoon/Clinica_Pet_gerenciamento_Django.git)
 <!-- REPO-POST-LIST:END -->
 <hr>
