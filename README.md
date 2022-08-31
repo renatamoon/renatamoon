@@ -14,7 +14,7 @@ Here you can find and check all my projects, studies files and more.
 
 <hr>
 
-### PROJECTS AND REPOSITORIES I'M CURRENTLY WORKING ON:
+### HIGHLIGHTS REPOSITORIES:
 
 <!-- REPO-POST-LIST:START -->
 - [Isis Fast API](https://github.com/renatamoon/isis_api)
@@ -37,16 +37,22 @@ Here you can find and check all my projects, studies files and more.
     <tr>
           <th>HTML</th>
           <th>CSS</th>
-          <th>Python</th>          
+          <th>Python</th>
+          <th>Fast API</th>
+          <th>Flask</th>
           <th>Django</th> 
           <th>MySQL</th>
+          <th>MongoDB</th>
    </tr>
    <tr>    
         <td><img align="center" alt="Renata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
         <td><img align="center" alt="Renata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-        <td><img align="center" alt="Renata-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>        
+        <td><img align="center" alt="Renata-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>     
+        <td><img align="center" alt="Renata-fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></td>
+        <td><img align="center" alt="Renata-flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></td>
         <td><img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></td>       
-        <td><img align="center" alt="Renata-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></td>          
+        <td><img align="center" alt="Renata-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></td>   
+        <td><img align="center" alt="Renata-mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></td>
   </tr>
 </table>
 
@@ -72,4 +78,3 @@ Here you can find and check all my projects, studies files and more.
   ![Snake animation](https://github.com/renatamoon/renatamoon/blob/output/github-contribution-grid-snake.svg)
  
 </div>  
-
