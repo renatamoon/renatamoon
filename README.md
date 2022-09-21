@@ -26,7 +26,6 @@ Here you can find and check all my projects, studies files and more.
 ### HOW TO REACH ME:
 
   <a href = "mailto:r.cardoso.monteiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:r_cardosomonteiro@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white>" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renata-monteiro-095b59101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <hr>
