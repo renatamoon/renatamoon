@@ -6,7 +6,7 @@ Here you can find and check all my projects, studies files and more.
 
 ### ABOUT ME:
 
-- 27 years old<br>
+- 28 years old<br>
 - São Paulo, SP - Brazil <br>
 - 📜🎓 Graduated in International Trade, Business and Management (finished in dec/2017);<br> 
 - 🧑‍🎓 Technology Student at UNICID - System Development Analysis (currently studying)<br> 
@@ -38,8 +38,8 @@ Here you can find and check all my projects, studies files and more.
           <th>CSS</th>
           <th>Python</th>
           <th>Fast API</th>
-          <th>Flask</th>
-          <th>Django</th> 
+          <th>Flask & Fast API</th>
+          <th>Django | Django Multi Tenants</th> 
           <th>MySQL</th>
           <th>MongoDB</th>
    </tr>
