@@ -1,5 +1,5 @@
 ## RENATA MONTEIRO'S GITHUB!
-Python Developer Jr and technology student from São Paulo, Brasil.<br>
+Software Developer and technology student from São Paulo, Brasil.<br>
 Here you can find and check all my projects, studies files and more.
 <br>
 <hr>
@@ -10,7 +10,7 @@ Here you can find and check all my projects, studies files and more.
 - São Paulo, SP - Brazil <br>
 - 📜🎓 Graduated in International Trade, Business and Management (finished in dec/2017);<br> 
 - 🧑‍🎓 Technology Student at UNICID - System Development Analysis (currently studying)<br> 
-- 💻 Currently working as Python Developer Jr at LionX (Banco Original)<br> 
+- 💻 Currently working as Backend Developer (Django Rest) at MineHR<br> 
 
 <hr>
 
