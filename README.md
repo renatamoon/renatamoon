@@ -8,9 +8,9 @@ Here you can find and check all my projects, studies files and more.
 
 - 29 years old<br>
 - São Paulo, SP - Brazil <br>
-- 📜🎓 Graduated in International Trade, Business and Management (finished in dec/2017);<br> 
-- 🧑‍🎓 Technology Student at UNICID - System Development Analysis (currently studying)<br> 
-- 💻 Currently working as Backend Developer (Django Rest) at MineHR<br> 
+- 📜🎓 Graduated in International Trade, Business and Management;<br> 
+- 🧑‍🎓 Graduated in System Development Analysis;<br> 
+- 💻 Currently working as Software Developer (Django) at Super Ensino<br> 
 
 <hr>
 
