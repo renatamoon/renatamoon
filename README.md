@@ -8,6 +8,7 @@ Here you can find and check all my projects, studies files and more.
 
 - 29 years old<br>
 - São Paulo, SP - Brazil <br>
+- Programming Languages: Python & Golang;
 - 📜🎓 Graduated in International Trade, Business and Management;<br> 
 - 🧑‍🎓 Graduated in System Development Analysis;<br> 
 - 💻 Currently working as Software Developer (Django) at Super Ensino<br> 
